@@ -1,2 +1,2 @@
 # todolist
- Atividade realizad no curso Java  pela Rocketseat
+ Atividade realizada no curso Java pela Rocketseat
